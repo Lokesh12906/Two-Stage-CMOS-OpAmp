@@ -170,18 +170,6 @@ Two-Stage-CMOS-OpAmp/
 
 ---
 
-## Future Improvements
-
-Possible extensions of this work include:
-
-* Layout design and parasitic extraction
-* Slew-rate analysis
-* Monte Carlo mismatch analysis
-* Power-supply rejection ratio (PSRR) analysis
-* Common-mode rejection ratio (CMRR) analysis
-* Migration to deep-submicron CMOS technologies
-
----
 
 ## Author
 
